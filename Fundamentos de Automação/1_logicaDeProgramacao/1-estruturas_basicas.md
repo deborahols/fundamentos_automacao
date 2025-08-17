@@ -3,9 +3,9 @@
 ## 1️⃣ Variáveis
 São como "caixinhas" na memória do computador onde você guarda informações para usar depois. No JavaScript:
 
-<span style="color:blue">let nome = "Testinho";   // pode mudar depois</span><br>
-<span style="color:blue">const idade = 24;        // não pode mudar (constante)</span><br>
-<span style="color:blue">var cidade = "Várzea Grande";  // antigo, quase não usado</span>
+**let** nome = "Testinho";   // pode mudar depois <br>
+**const** idade = 24;        // não pode mudar (constante) <br>
+**var** cidade = "Várzea Grande";  // antigo, quase não usado
 
 **Passos principais:**
 1. **Analisar o problema** → O que precisa ser feito?  
