@@ -22,20 +22,48 @@ var cidade = "Várzea Grande";  // antigo, quase não usado
 
 ---
 
-## 🔹 Base de Código
-É o conjunto de conceitos básicos que todo código precisa para existir e funcionar.  
+ 2️⃣ Tipos de dados
 
-### **Principais elementos:**
-- **Variáveis** → guardam informações (ex.: nome, idade, senha).  
-- **Tipos de dados** → definem que tipo de informação está guardada (texto, número, lista, etc).  
-- **Operadores** → fazem contas e comparações (`+`, `-`, `>`, `==`).  
-- **Estruturas de decisão** → permitem escolhas (ex.: `if/else`).  
-- **Laços de repetição** → repetem uma ação várias vezes (`for`, `while`).  
-- **Funções** → blocos de código que podem ser reutilizados.  
-- **Organização do código** → separar em arquivos/pastas para manter claro e escalável.  
+São os diferentes tipos de informações que uma variável pode guardar.
+Principais tipos em JavaScript:
+
+- **String (texto)** : "Teste Testando";
+- **Number (números)** : 25, 3.14;
+- **Boolean (verdadeiro/falso)** : true, false;
+- **Array (lista de valores)** : [1, 2, 3], ["QA", "Dev", "PO"];
+- **Object (conjunto de chave/valor)** :
+```js
+let pessoa = { nome: "Testinho", idade: 24 };
+```
+
+- **Null**: vazio proposital;
+- **Undefined**: ainda não definido.
 
 ---
 
-## 📌 Resumindo
-- **Lógica de programação** = a forma de pensar (o raciocínio passo a passo).  
-- **Base de código** = as ferramentas que você usa para transformar essa lógica em algo que o computador entenda.  
+3️⃣ Operadores
+
+São símbolos usados para fazer cálculos ou comparações.
+
+- Aritméticos (contas):
+```js
+let soma = 5 + 2;   // 7
+let sub = 5 - 2;    // 3
+let mult = 5 * 2;   // 10
+let div = 10 / 2;   // 5
+let resto = 10 % 3; // 1
+```
+- Comparação (testa valores):
+```js
+5 == "5"   // true (só compara valor)
+5 === "5"  // false (compara valor + tipo)
+5 > 2      // true
+5 < 2      // false
+```
+
+- Lógicos (combina condições):
+```js
+true && false // false (E)
+true || false // true  (OU)
+!true         // false (negação)
+```

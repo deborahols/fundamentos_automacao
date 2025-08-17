@@ -21,7 +21,7 @@
 
 ### **Principais elementos:**
 - **Variáveis** → guardam informações (ex.: nome, idade, senha).  
-- **Tipos de dados** → definem que tipo de informação está guardada (texto, número, lista, etc).  
+- **Tipos de dados** → definem que tipo de informação está guardada (texto,número,lista, etc).  
 - **Operadores** → fazem contas e comparações (`+`, `-`, `>`, `==`).  
 - **Estruturas de decisão** → permitem escolhas (ex.: `if/else`).  
 - **Laços de repetição** → repetem uma ação várias vezes (`for`, `while`).  
