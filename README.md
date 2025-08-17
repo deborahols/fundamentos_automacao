@@ -1,2 +1,5 @@
-# fundamentos_automacao
-Este repositório tem por objetivo armazenar os conhecimentos obtidos durante os meus estudos sobre os fundamentos de automação de testes
+#Fundamentos de Automação (independente da ferramenta)
+Este repositório tem por objetivo armazenar os conhecimentos obtidos durante os meus estudos sobre os fundamentos de automação de testes.
+
+---
+#Divisão
