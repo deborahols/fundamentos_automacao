@@ -1,12 +1,7 @@
-# 📘 Estruturas básicas: variáveis, tipos de dados e operadores
+# 📘 Lógica de Programação e Base de Código
 
-## 1️⃣ Variáveis
-São como "caixinhas" na memória do computador onde você guarda informações para usar depois.
-No JavaScript:
-
-**let** nome = "Testinho";   // pode mudar depois <br>
-**const** idade = 24;       // não pode mudar (constante) <br>
-**var** cidade = "Várzea Grande";  // antigo, quase não usado
+## 🔹 Lógica de Programação
+É o **jeito de pensar** para resolver problemas de forma estruturada e que o computador entenda.
 
 **Passos principais:**
 1. **Analisar o problema** → O que precisa ser feito?  
@@ -37,4 +32,4 @@ No JavaScript:
 
 ## 📌 Resumindo
 - **Lógica de programação** = a forma de pensar (o raciocínio passo a passo).  
-- **Base de código** = as ferramentas que você usa para transformar essa lógica em algo que o computador entenda.  
+- **Base de código** = as ferramentas que você usa para transformar essa lógica em algo que o computador entenda. 
