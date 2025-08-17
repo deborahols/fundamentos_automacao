@@ -1,12 +1,11 @@
 # 📘 Estruturas básicas: variáveis, tipos de dados e operadores
 
 ## 1️⃣ Variáveis
-São como "caixinhas" na memória do computador onde você guarda informações para usar depois.
-No JavaScript:
+São como "caixinhas" na memória do computador onde você guarda informações para usar depois. No JavaScript:
 
-<style color: blue;>let</style> nome = "Testinho";   // pode mudar depois <br>
-<style color: blue;>const</style> idade = 24;       // não pode mudar (constante) <br>
-<style color: blue;>var</style> cidade = "Várzea Grande";  // antigo, quase não usado
+<span style="color:blue">let nome = "Testinho";   // pode mudar depois</span><br>
+<span style="color:blue">const idade = 24;        // não pode mudar (constante)</span><br>
+<span style="color:blue">var cidade = "Várzea Grande";  // antigo, quase não usado</span>
 
 **Passos principais:**
 1. **Analisar o problema** → O que precisa ser feito?  
