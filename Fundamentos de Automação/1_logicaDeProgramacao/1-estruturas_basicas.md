@@ -22,7 +22,7 @@ var cidade = "Várzea Grande";  // antigo, quase não usado
 
 ---
 
- 2️⃣ Tipos de dados
+## 2️⃣ Tipos de dados
 
 São os diferentes tipos de informações que uma variável pode guardar.
 Principais tipos em JavaScript:
@@ -41,7 +41,7 @@ let pessoa = { nome: "Testinho", idade: 24 };
 
 ---
 
-3️⃣ Operadores
+## 3️⃣ Operadores
 
 São símbolos usados para fazer cálculos ou comparações.
 
