@@ -4,9 +4,9 @@
 São como "caixinhas" na memória do computador onde você guarda informações para usar depois.
 No JavaScript:
 
-**let** nome = "Testinho";   // pode mudar depois <br>
-**const** idade = 24;       // não pode mudar (constante) <br>
-**var** cidade = "Várzea Grande";  // antigo, quase não usado
+<style color: blue;>let</style> nome = "Testinho";   // pode mudar depois <br>
+<style color: blue;>const</style> idade = 24;       // não pode mudar (constante) <br>
+<style color: blue;>var</style> cidade = "Várzea Grande";  // antigo, quase não usado
 
 **Passos principais:**
 1. **Analisar o problema** → O que precisa ser feito?  
