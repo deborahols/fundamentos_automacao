@@ -1,5 +1,5 @@
 ## 1️⃣ If / Else
-O ```js if ``` é usado para executar um bloco de código somente se uma condição for verdadeira. O else é opcional e serve para executar outro bloco caso a condição seja falsa.
+O `if` é usado para executar um bloco de código somente se uma condição for verdadeira. O else é opcional e serve para executar outro bloco caso a condição seja falsa.
 
 Exemplo:
 ```js
@@ -18,7 +18,7 @@ Aqui, se idade for maior ou igual a 18, o primeiro bloco será executado. Se nã
 
 ## 2️⃣ Switch
 
-O ```js switch``` é usado quando se precisa verificar uma variável em vários casos possíveis, de forma mais organizada que vários ```js if/else if```.
+O `switch` é usado quando se precisa verificar uma variável em vários casos possíveis, de forma mais organizada que vários `if/else if`.
 
 Exemplo:
 ```js
