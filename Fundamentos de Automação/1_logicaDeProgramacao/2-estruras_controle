@@ -1,5 +1,4 @@
 ## 1️⃣ If / Else
-
 O ```js if ``` é usado para executar um bloco de código somente se uma condição for verdadeira. O else é opcional e serve para executar outro bloco caso a condição seja falsa.
 
 Exemplo:
