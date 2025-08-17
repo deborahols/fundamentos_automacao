@@ -12,7 +12,7 @@ if (idade >= 18) {
 }
 ```
 
-Aqui, se idade for maior ou igual a 18, o primeiro bloco será executado. Se não, o bloco do else será executado.
+Aqui, se idade for maior ou igual a 18, o if será executado. Se não, o else será executado.
 
 ---
 
