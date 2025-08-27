@@ -4,9 +4,9 @@
 É o **jeito de pensar** para resolver problemas de forma estruturada e que o computador entenda.
 
 **Passos principais:**
-1. **Analisar o problema** → O que precisa ser feito?  
-2. **Quebrar em passos** → Qual a sequência de ações?  
-3. **Traduzir em código** → Escrever instruções claras que o computador executa.  
+1. **Analisar o problema**: O que precisa ser feito?  
+2. **Quebrar em passos**: Qual a sequência de ações?  
+3. **Traduzir em código**: Escrever instruções claras que o computador executa.  
 
 **Exemplo prático:**
 *"Quero verificar se o usuário pode fazer login."*  
