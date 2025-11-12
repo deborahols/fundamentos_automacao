@@ -11,5 +11,9 @@ Para facilitar, os conteudos estão divididos em 6 partes:
 3️⃣ Ferramenta de automação (ex.: Cypress, Playwright, Appium); <br>
 4️⃣ Organização e padrões de projeto; <br>
 5️⃣ Integração com outras camadas; <br>
-6️⃣ Integração contínua e versionamento;
+6️⃣ Integração contínua e versionamento
+
+---
+# Iniciando
+Começando por [fundamentos](./logica/)
 
