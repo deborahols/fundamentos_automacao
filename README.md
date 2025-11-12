@@ -15,5 +15,5 @@ Para facilitar, os conteudos estão divididos em 6 partes:
 
 ---
 # Iniciando
-Começando por [fundamentos](./logica/)
+Começando por [Lógica de programação e base de código](fundamentos/logica/0-logicaebase.md/)
 
